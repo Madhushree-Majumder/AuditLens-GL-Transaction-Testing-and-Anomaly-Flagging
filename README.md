@@ -44,7 +44,7 @@ Multi-currency (CAD / USD / INR), realistic GL accounts
 - **12,441 of 20,000 entries** carry at least one risk flag (62%)
 - **After-hours entries** are the most common anomaly (8,467 flagged)
 - **116 entries** scored 3 or higher — highest-priority for review
-- **High Risk %** across the full dataset: 0.14 (14 per 1,000 entries)
+- **High Risk %** across the full dataset: 14% of entries flagged as high-risk (risk score >= 2).
 - 7 unique users identified; `admin` account appears in flagged entries
   across multiple business units
 
